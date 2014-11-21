@@ -9,6 +9,7 @@ Gem::Specification.new do |s|
   s.homepage    = "http://github.com/wanglian/motion-pinyin"
   s.summary     = "A RubyMotion wrapper for chinese_pinyin (https://github.com/flyerhzm/chinese_pinyin)"
   s.description = "translate chinese hanzi to pinyin."
+  s.license     = "MIT"
 
   s.required_rubygems_version = ">= 1.3.6"
 
