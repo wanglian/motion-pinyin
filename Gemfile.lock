@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    motion-pinyin (0.0.1)
+      motion-require (>= 0.0.6)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    motion-require (0.2.0)
+    rake (10.3.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.7)
+  motion-pinyin!
+  rake (~> 10.0)
